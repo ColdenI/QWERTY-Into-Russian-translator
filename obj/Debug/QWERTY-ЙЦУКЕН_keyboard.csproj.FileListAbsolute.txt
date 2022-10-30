@@ -1,0 +1,11 @@
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\bin\Debug\QWERTY-ЙЦУКЕН_keyboard.exe.config
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\bin\Debug\QWERTY-ЙЦУКЕН_keyboard.exe
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\bin\Debug\QWERTY-ЙЦУКЕН_keyboard.pdb
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\obj\Debug\QWERTY-ЙЦУКЕН_keyboard.csproj.AssemblyReference.cache
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\obj\Debug\QWERTY_ЙЦУКЕН_keyboard.Form1.resources
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\obj\Debug\QWERTY_ЙЦУКЕН_keyboard.Properties.Resources.resources
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\obj\Debug\QWERTY-ЙЦУКЕН_keyboard.csproj.GenerateResource.cache
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\obj\Debug\QWERTY-ЙЦУКЕН_keyboard.csproj.CoreCompileInputs.cache
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\obj\Debug\QWERTY-ЙЦУКЕН_keyboard.exe
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\obj\Debug\QWERTY-ЙЦУКЕН_keyboard.pdb
+G:\progect c#\QWERTY-ЙЦУКЕН_keyboard\obj\Debug\QWERTY_ЙЦУКЕН_keyboard.AboutForm.resources
